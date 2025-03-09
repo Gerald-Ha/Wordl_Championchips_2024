@@ -1,4 +1,14 @@
 {
   "version": "1.0.7",
-  "changelog": "• Bugfix 'Edit List' \n• Neuer Auto-Refresh für Crypto News \n• Responsive Design \n• Docker-Command angepasst ..."
+  "changelog": [
+    "Bugfixes und Verbesserungen1234",
+    "Responsive Design hinzugefügt",
+    "Crypto News Auto Update ohne Browser-Neuladen alle 3 Minuten",
+    "Crypto Price Refresh von 5s auf 1s reduziert",
+    "Docker-Command aktualisiert (Alarme und registrierte Coins bleiben bei Image-Updates erhalten)",
+    "Bugfix 'Edit List' funktioniert jetzt korrekt",
+    "Update-Benachrichtigung alle 5 Tage hinzugefügt",
+    "Überarbeitung der 'Crypto-box'",
+    "Optimierung der Preis-Anzeige für sehr kleine Kryptowährungen"
+  ]
 }

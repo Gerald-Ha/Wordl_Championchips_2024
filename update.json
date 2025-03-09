@@ -1,5 +1,4 @@
 {
   "version": "1.0.7",
-  "changelog": "Bugfixes und Verbesserungen1234",
-  "updateUrl": "https://github.com/Gerald-Ha/HodlEye-Crypto-Price-Tracker/releases/tag/2.0.8"
+  "changelog": "• Bugfix 'Edit List' \n• Neuer Auto-Refresh für Crypto News \n• Responsive Design \n• Docker-Command angepasst ..."
 }
